@@ -10,8 +10,8 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,7 +20,7 @@
   "source": null, 
   "featured": false, 
   "author_tags": [], 
-  "image": null, 
+  "image": "bac70c5643ae4bbe974a08d821a46fa7", 
   "published": null, 
   "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
