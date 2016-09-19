@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "20ce27a34f4a46fa8d98a37cd85dd642"
+  ], 
   "id": null, 
   "content": "S\u00ed. Ocultamos los n\u00fameros de tel\u00e9fono en el sistema. Incluso aquellos con los m\u00e1s altos niveles de acceso no pueden ver los n\u00fameros telef\u00f3nicos de los U-Reporters. Los usuarios tambi\u00e9n tienen la opci\u00f3n de entregar un sobrenombre o no. Para los que escogen tener un sobrenombre, U-Report nunca lo utilizar\u00e1 fuera del sistema sin antes pedir la autorizaci\u00f3n del U-Reporter.\r\n\r\nArt\u00edculo siguiente:", 
   "source": "a607dd253930410b9949034caf331062", 
