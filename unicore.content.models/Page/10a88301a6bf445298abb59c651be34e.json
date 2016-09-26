@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "3e477cfd750640139152d8a4ab1d5cb2"
+  ], 
   "id": null, 
   "content": "Bien \u00e9videmment, les num\u00e9ros de t\u00e9l\u00e9phone sont crypt\u00e9s dans le syst\u00e8me. M\u00eame ceux qui ont le plus haut niveau d\u2019acc\u00e8s \u00e0 l\u2019information ne peuvent pas voir le num\u00e9ro de t\u00e9l\u00e9phone d\u2019un U-Reporter. Les U-Reporters ont \u00e9galement la possibilit\u00e9 d\u2019utiliser un pseudonyme ou de rester anonyme. Pour ceux qui choisissent un pseudo, ce dernier ne peut pas \u00eatre utilis\u00e9 en dehors du syst\u00e8me sans l\u2019autorisation du U-Reporter.\r\n \r\nArticle suivant :", 
   "source": "a607dd253930410b9949034caf331062", 
