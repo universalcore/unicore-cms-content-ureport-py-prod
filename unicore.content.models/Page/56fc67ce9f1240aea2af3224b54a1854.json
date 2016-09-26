@@ -10,11 +10,14 @@
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "10a88301a6bf445298abb59c651be34e", 
+    "3e477cfd750640139152d8a4ab1d5cb2"
+  ], 
   "id": null, 
   "content": "La philosophie de U-Report est bas\u00e9e sur l\u2019id\u00e9e que U-Report est \u00ab du peuple, par le peuple et pour le peuple \u00bb. Ainsi, les partenaires issus de la soci\u00e9t\u00e9 civile/ONG repr\u00e9sentant les U-Reporters g\u00e8rent U-Report avec l\u2019UNICEF comme principal partenaire.\r\n \r\nArticle suivant :", 
   "source": "a9c15498b6f14f7bb264102feb8c9584", 
