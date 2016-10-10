@@ -1,0 +1,32 @@
+{
+  "subtitle": "", 
+  "description": "It is free and always will be!", 
+  "language": "eng_GB", 
+  "title": "How much do U-reporters have to pay for U-report? ", 
+  "primary_category": "0709d2e0d69644e6bee3c91528851318", 
+  "created_at": "2016-08-25T10:18:42+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-09-27T05:51:46.708865+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "9cc63caa5ce4489da68f698f38fbcaf3", 
+    "4663f50303804d95a71bbbe9c377a83f"
+  ], 
+  "id": null, 
+  "content": "Nothing. It\u2019s free and it will always be. \r\n\r\nU-Report is free for users to make it accessible to everyone - this is a core principle of the programme we maintain. \r\n\r\nNext article :", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 2, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "how-much-do-u-reporters-have-pay-u-report", 
+  "uuid": "ca211ee3e0c54603b31a381e63f8be53"
+}

@@ -1,0 +1,32 @@
+{
+  "subtitle": "", 
+  "description": "You can stop whenever you want", 
+  "language": "eng_GB", 
+  "title": "How does someone stop being a U-Reporter? ", 
+  "primary_category": "0709d2e0d69644e6bee3c91528851318", 
+  "created_at": "2016-08-25T10:17:59+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-09-27T05:51:46.824495+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "32f10c073f45404980f99a9a8fe23f04", 
+    "4663f50303804d95a71bbbe9c377a83f"
+  ], 
+  "id": null, 
+  "content": "U-Reporters can quit at any time by sending a keyword e.g. QUIT, which triggers their leaving the project. If they change their mind they can re-join. \r\n\r\nNext article :", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 3, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "how-does-someone-stop-being-u-reporter", 
+  "uuid": "9cc63caa5ce4489da68f698f38fbcaf3"
+}

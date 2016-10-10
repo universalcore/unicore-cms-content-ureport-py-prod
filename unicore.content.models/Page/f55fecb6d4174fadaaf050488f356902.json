@@ -1,0 +1,32 @@
+{
+  "subtitle": "", 
+  "description": "D\u00e9couvrez-le maintenant", 
+  "language": "fre_FR", 
+  "title": "Il y a-t-il un \u00e2ge minimal pour devenir un U-Reporter ?", 
+  "primary_category": "e494d2128e2245848207453dede069ed", 
+  "created_at": "2016-09-26T14:29:40.774894+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-09-26T14:38:21.602764+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "3e477cfd750640139152d8a4ab1d5cb2", 
+    "f9586e06c5ad4e32ab2f730181fd37d5"
+  ], 
+  "id": null, 
+  "content": "Nous nous soumettons \u00e0 la Loi sur l\u2019\u00e2ge minimum o\u00f9 une loi existe, mais nous soutenons \u00e9galement l\u2019Article 13 de la Convention relative aux droits de l\u2019enfant et \u00e0 la libert\u00e9 d\u2019expression. \u00c0 U-Report Global, nous demandons que vous ayez plus de 13 ans, tout comme sur les autres r\u00e9seaux sociaux.\r\n \r\n \r\nArticle suivant : ", 
+  "source": "32f10c073f45404980f99a9a8fe23f04", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 4, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "il-y-t-il-un-age-minimal-pour-devenir-un-u-reporter", 
+  "uuid": "f55fecb6d4174fadaaf050488f356902"
+}

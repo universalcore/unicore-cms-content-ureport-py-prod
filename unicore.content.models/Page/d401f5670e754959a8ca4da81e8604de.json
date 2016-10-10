@@ -1,0 +1,32 @@
+{
+  "subtitle": "", 
+  "description": "You\u2019re an agent of change", 
+  "language": "eng_GB", 
+  "title": "How are your answers used?\t", 
+  "primary_category": "0709d2e0d69644e6bee3c91528851318", 
+  "created_at": "2016-08-25T10:16:32+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-09-27T05:51:01.356613+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "e7b405be214d46ebbf65beced4ecfa31", 
+    "4663f50303804d95a71bbbe9c377a83f"
+  ], 
+  "id": null, 
+  "content": "U-Report poll results are visualized in a public website, and our partners (NGOS, government, civil society, UN agencies, to name a few) use it to achieve change for you and your community. We don\u2019t poll for the sake of polling, but we engage young people around issues that affect them so they get to influence decision making processes. \r\n\r\nNext article : ", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 5, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "how-are-your-answers-used", 
+  "uuid": "d401f5670e754959a8ca4da81e8604de"
+}

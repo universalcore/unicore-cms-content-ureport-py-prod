@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Aver\u00edgualo ahora", 
+  "language": "spa_ES", 
+  "title": "Hay una edad m\u00ednima para ser U-Reporter?", 
+  "primary_category": "5891641c1f024745a68838d767bd10e0", 
+  "created_at": "2016-09-19T07:19:52.963670+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-09-27T07:23:52.153829+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "a9569ead7dc54e5cb10dfdfc2f6488e3"
+  ], 
+  "id": null, 
+  "content": "Seguimos la legislaci\u00f3n en edad m\u00ednima donde la haya, pero tambi\u00e9n apoyamos la libertad de expresi\u00f3n comprendida en el art\u00edculo 13 de la convenci\u00f3n de derechos del ni\u00f1o. En U-Report Global te pedimos ser mayor de 13 a\u00f1os, como en otras redes sociales.\r\n\r\nArt\u00edculo siguiente:", 
+  "source": "32f10c073f45404980f99a9a8fe23f04", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 4, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "hay-una-edad-minima-para-ser-u-reporter", 
+  "uuid": "dc280e5f06404fbda06fa95a64a5c72c"
+}

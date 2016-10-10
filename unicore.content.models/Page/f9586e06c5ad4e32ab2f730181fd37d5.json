@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Vous \u00eates un acteur du changement", 
+  "language": "fre_FR", 
+  "title": "Comment vos r\u00e9ponses sont-elles utilis\u00e9es?", 
+  "primary_category": "e494d2128e2245848207453dede069ed", 
+  "created_at": "2016-09-26T14:10:57.750942+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-09-26T14:38:21.860233+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "458d6b8b7e7e4bb3a36808042b05b9e4"
+  ], 
+  "id": null, 
+  "content": "Les r\u00e9sultats des sondages U-Report sont communiqu\u00e9s sur un site Web public, ainsi l\u2019UNICEF, ses partenaires et les mouvements associatifs utilisent ces r\u00e9sultats pour faire du plaidoyer aupr\u00e8s des d\u00e9cideurs et partenaires sur les enjeux cl\u00e9s qui concernent les jeunes. Nous interrogeons pas pour le simple but d\u2019interroger, mais nous mobilisons les jeunes autour des questions qui les touchent pour qu\u2019ils puissent influencer les processus d\u00e9cisionnels.\r\n \r\nArticle suivant :", 
+  "source": "d401f5670e754959a8ca4da81e8604de", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 5, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "comment-vos-reponses-sont-elles-utilisees", 
+  "uuid": "f9586e06c5ad4e32ab2f730181fd37d5"
+}

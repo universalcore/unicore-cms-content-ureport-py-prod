@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Become an agent of change now!", 
+  "language": "eng_GB", 
+  "title": "How do I become a U-Reporter?", 
+  "primary_category": "0709d2e0d69644e6bee3c91528851318", 
+  "created_at": "2016-08-25T10:20:52+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-09-27T05:51:47.047826+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "6d6a30c3ddfc49c1a865f5cd87fe19db"
+  ], 
+  "id": null, 
+  "content": "Would you like to have your voice heard?\r\n\r\nIt is very easy to become a U-Reporter and takes less than one minute. Click here to become a U-Reporter.\r\n\r\nAlso, you can send us a message directly via to [U-Report Global in Facebook][1], and text JOIN through Facebook messenger.\r\n\r\n**1) Access the [U-Report Global page in Facebook][2]** \r\n\r\n**2) Send us a message to U-Report global in Facebook and text JOIN through Facebook messenger.**\r\n\r\nIf you have a smartphone you can also join U-Report by downloading the U-Report Android Application by following [this link][3] (data charges may apply)\r\n\r\nTry to download the application with a WIFI network if you have access to one!\r\n\r\nNext article :\r\n\r\n\r\n  [1]: https://free.facebook.com/ureportglobal/\r\n  [2]: https://free.facebook.com/ureportglobal/\r\n  [3]: https://play.google.com/store/apps/details?id=in.ureport", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "how-do-i-become-u-reporter", 
+  "uuid": "4663f50303804d95a71bbbe9c377a83f"
+}

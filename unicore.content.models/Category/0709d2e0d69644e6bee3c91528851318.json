@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "0709d2e0d69644e6bee3c91528851318", 
+  "language": "eng_GB", 
+  "title": "Join a Global Movement", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "join-global-movement", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}

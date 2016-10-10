@@ -1,0 +1,32 @@
+{
+  "subtitle": "", 
+  "description": "Votre voix compte!", 
+  "language": "fre_FR", 
+  "title": "Qu\u2019est-ce que U-Report?", 
+  "primary_category": "9dc82b3948744b518cb80f9a468c70d1", 
+  "created_at": "2016-09-26T14:09:40+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-09-26T14:37:40.955387+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "56fc67ce9f1240aea2af3224b54a1854", 
+    "3e477cfd750640139152d8a4ab1d5cb2"
+  ], 
+  "id": null, 
+  "content": "U-Report est un outil gratuit de communication \u00e0 grande \u00e9chelle con\u00e7u pour donner l\u2019opportunit\u00e9 aux jeunes d\u2019exprimer leurs opinions sur les sujets qui comptent pour eux, de d\u00e9battre sur ce qui se passe dans leur communaut\u00e9 et de recevoir des messages avec des informations utiles voire parfois vitales.  \r\n\r\nChaque semaine, les jeunes peuvent donner leur avis sur de diff\u00e9rents probl\u00e8mes qui les affectent en r\u00e9pondant aux sondages sur leurs t\u00e9l\u00e9phones. Les r\u00e9sultats sont communiqu\u00e9s sur un site Web public, ainsi l\u2019UNICEF, ses partenaires et les mouvements associatifs utilisent ces r\u00e9sultats pour faire du plaidoyer aupr\u00e8s des d\u00e9cideurs et partenaires sur les enjeux cl\u00e9s qui concernent les jeunes.\r\n \r\nArticle suivant :", 
+  "source": "e7b405be214d46ebbf65beced4ecfa31", 
+  "featured": true, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "quest-ce-que-u-report", 
+  "uuid": "458d6b8b7e7e4bb3a36808042b05b9e4"
+}

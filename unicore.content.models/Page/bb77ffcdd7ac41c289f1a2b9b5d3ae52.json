@@ -1,0 +1,32 @@
+{
+  "subtitle": "", 
+  "description": "U-Report reste et demeure gratuit !", 
+  "language": "fre_FR", 
+  "title": "Combien les U-Reporters doivent-ils payer \u00e0 U-Report ?", 
+  "primary_category": "e494d2128e2245848207453dede069ed", 
+  "created_at": "2016-09-26T14:31:21.759812+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-09-26T14:38:21.304908+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "9d873f5673064579857ecec99065038a", 
+    "3e477cfd750640139152d8a4ab1d5cb2"
+  ], 
+  "id": null, 
+  "content": "Absolument rien. U-Report est gratuit et il le sera toujours.  U-Report est gratuit pour les utilisateurs afin de le rendre accessible \u00e0 tous - il s\u2019agit d\u2019un principe de base du programme.\r\n \r\nArticle suivant : ", 
+  "source": "ca211ee3e0c54603b31a381e63f8be53", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 2, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "combien-les-u-reporters-doivent-ils-payer-u-report", 
+  "uuid": "bb77ffcdd7ac41c289f1a2b9b5d3ae52"
+}

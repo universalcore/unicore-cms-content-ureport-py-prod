@@ -1,0 +1,32 @@
+{
+  "subtitle": "", 
+  "description": "Vous pouvez arr\u00eater quand vous le d\u00e9sirez", 
+  "language": "fre_FR", 
+  "title": "Comment cesse-t-on d\u2019\u00eatre un U-Reporter ?", 
+  "primary_category": "e494d2128e2245848207453dede069ed", 
+  "created_at": "2016-09-26T14:30:25.431850+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-09-26T14:38:21.435988+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "f55fecb6d4174fadaaf050488f356902", 
+    "3e477cfd750640139152d8a4ab1d5cb2"
+  ], 
+  "id": null, 
+  "content": "Les U-Reporters peuvent quitter \u00e0 tout moment en envoyant un mot cl\u00e9 par exemple QUITTER, qui d\u00e9clenche leur sortie du projet. S'ils changent d\u2019avis, ils peuvent revenir.\r\n \r\nArticle suivant : ", 
+  "source": "9cc63caa5ce4489da68f698f38fbcaf3", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 3, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "comment-cesse-t-detre-un-u-reporter", 
+  "uuid": "9d873f5673064579857ecec99065038a"
+}

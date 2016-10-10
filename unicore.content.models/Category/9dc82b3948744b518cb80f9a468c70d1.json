@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "9dc82b3948744b518cb80f9a468c70d1", 
+  "language": "fre_FR", 
+  "title": "Introduction \u00e0 U-Report", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "introduction-u-report", 
+  "source": "425e9ba4fa3d4deea39ebd527109c4d6", 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}

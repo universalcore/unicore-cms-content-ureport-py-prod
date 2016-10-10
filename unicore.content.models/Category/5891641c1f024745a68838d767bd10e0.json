@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "5891641c1f024745a68838d767bd10e0", 
+  "language": "spa_ES", 
+  "title": "\u00danete a un movimiento global", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "unete-un-movimiento-global", 
+  "source": "0709d2e0d69644e6bee3c91528851318", 
+  "position": 1, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}

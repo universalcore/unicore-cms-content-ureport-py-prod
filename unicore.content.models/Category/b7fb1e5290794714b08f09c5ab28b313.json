@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "b7fb1e5290794714b08f09c5ab28b313", 
+  "language": "eng_GB", 
+  "title": "Category Does Not Exist In French", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "category-does-not-exist-french", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
