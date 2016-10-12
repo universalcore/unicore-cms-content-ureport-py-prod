@@ -10,11 +10,14 @@
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "20ce27a34f4a46fa8d98a37cd85dd642", 
+    "47c19a3cce32480b9a4cece8ffe80400"
+  ], 
   "id": null, 
   "content": "La filosof\u00eda de U-Report se funda en ser una herramienta de las personas, por las personas, y para las personas y, como tal, la sociedad civil, socios y organizaciones sociales que representan a U-Reporters son los due\u00f1os de U-Report junto a UNICEF.\r\n\r\nArt\u00edculo siguiente:", 
   "source": "a9c15498b6f14f7bb264102feb8c9584", 
