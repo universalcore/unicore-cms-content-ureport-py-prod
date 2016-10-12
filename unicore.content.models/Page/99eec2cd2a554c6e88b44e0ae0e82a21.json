@@ -1,22 +1,22 @@
 {
   "subtitle": "", 
-  "description": "Puedes salirte cuando gustes.", 
+  "description": "Pod\u00e9s salir cuando quieras.", 
   "language": "spa_ES", 
-  "title": "C\u00f3mo alguien deja de ser un U-Reporter? ", 
+  "title": "\u00bfC\u00f3mo alguien deja de ser un U-Reporter? ", 
   "primary_category": "5891641c1f024745a68838d767bd10e0", 
-  "created_at": "2016-09-19T07:20:52.857806+00:00", 
+  "created_at": "2016-09-19T07:20:52+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-09-27T07:23:52.045677+00:00", 
+  "modified_at": "2016-10-12T14:36:31.894943+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "dc280e5f06404fbda06fa95a64a5c72c", 
-    "20ce27a34f4a46fa8d98a37cd85dd642"
+    "20ce27a34f4a46fa8d98a37cd85dd642", 
+    "dc280e5f06404fbda06fa95a64a5c72c"
   ], 
   "id": null, 
   "content": "Los U-Reporters pueden salir cuando quieran del sistema, simplemente enviando la palabra SALIR. Si cambian de parecer, siempre pueden volver.\r\n\r\nArt\u00edculo siguiente:", 
